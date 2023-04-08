@@ -1,0 +1,9 @@
+/logs
+/facedetection
+/aug_data/test/images
+/aug_data/train/images
+/aug_data/val/images
+/aug_data/test/labels
+/aug_data/train/labels
+/aug_data/val/labels
+/data
